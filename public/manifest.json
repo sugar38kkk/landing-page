@@ -1,0 +1,16 @@
+{
+  "name": "NextJs - Boilerplate",
+  "short_name": "NextJs Advanced",
+  "icons": [
+    {
+      "src": "/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#06092b",
+  "background_color": "#06092b",
+  "description": "We want to hear from you!Take our 2021 Community Survey! Try out a preview of the new React Docs! beta.reactjs.org · React DocsTutorialBlogCommunity.",
+  "start_url": "/",
+  "display": "fullscreen"
+}
